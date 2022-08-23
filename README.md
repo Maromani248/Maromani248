@@ -3,14 +3,10 @@
 
 ## Welcome to my Github! I'm a Computer Engineering Student  
 
-</br>
-
 ## 📆 I’m currently...
   - 👨‍💻 doing challenges of web development technologies HTML, CSS and JavaScript.
   - 📚 learning everything about Frontend technologies.
   - 📚 studying English in Centro de Idiomas - UNL.
-
-</br>
 
 ## ⭐ About me
 
@@ -20,8 +16,6 @@
   - 🎨 I love to color things. I always liked design in general. I care that things look good because, for me, the first impression counts.
   - 💪🏼 I want to learn more technologies so that I can create beautiful things. 
   
-</br>
-
 ## 💻 Technologies
 <p align='center'>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maromani248&count_private=true&theme=dracula">
