@@ -1,4 +1,4 @@
-<img width="100%" height="100" align='center' src="https://raw.githubusercontent.com/Presentacion.png" >
+<img width="100%" height="200" align='center' src="https://raw.githubusercontent.com/Presentacion.png" >
 ### Hi there 👋
 
 Here are some ideas to get you started:
