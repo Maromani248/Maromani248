@@ -1,3 +1,4 @@
+<img width="250" height="100" align='right' src="https://raw.githubusercontent.com/Presentacion.png" >
 ### Hi there 👋
 
 Here are some ideas to get you started:
@@ -11,6 +12,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<a href="">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bgstatic&theme=react&line_height=40&hide=css"/>
-    </a>
