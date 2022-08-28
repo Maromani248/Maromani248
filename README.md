@@ -1,4 +1,4 @@
-<img width="100%" height="250" align='center' src="https://github.com/Maromani248/Maromani248/blob/main/Presentacion.png" >
+<img width="100%" height="240" align='center' src="https://github.com/Maromani248/Maromani248/blob/main/Presentacion.png" >
 
 
 ## Welcome to my Github! I'm a Computer Engineering Student  
