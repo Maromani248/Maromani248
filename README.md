@@ -18,7 +18,7 @@
   
 ## 💻 Technologies
 <p align='center'>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maromani248&count_private=true&theme=dracula">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maromani248&layout=compact&langs_count=7&theme=react"/">
 </p>
 
 ## 🙋‍🏻‍♀️ How to reach me...
