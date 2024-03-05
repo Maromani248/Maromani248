@@ -3,14 +3,14 @@
 
 ## Welcome to my Github! I'm a Computer Engineering Student  
 
-## 📆 I’m currently...
-  - 👨‍💻 doing challenges of web development technologies HTML, CSS and JavaScript.
-  - 📚 learning everything about Frontend technologies.
-  - 📚 studying English in Centro de Idiomas - UNL.
+## 📆 Currently...
+  - 👨‍💻 I’m working as functional analyst at Crombie.
+  - 📚 I’m learning everything about Frontend technologies.
+  - 📚 I’m studying English in Centro de Idiomas - UNL.
 
 ## ⭐ About me
 
-  - 📍 I'm 24 years old and I'm living in Santa Fe, Argentina. 
+  - 📍  I'm living in Santa Fe, Argentina. 
   - 🏋️‍♂️ I used to play volleyball at secondary school. Now, I do functional training. 
   - 💛 I love to sing, especially English songs. I meet my friends, I watch series and I enjoy with my family.
   - 🎨 I love to color things. I always liked design in general. I care that things look good because, for me, the first impression counts.
